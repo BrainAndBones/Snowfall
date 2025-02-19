@@ -1,0 +1,17 @@
+{
+  "name": "Snow Fall",
+  "short_name": "Snow",
+  "theme_color": "#C8DCFE",
+  "background_color": "#82A0FE",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "https://brainandbones.github.io/CharacterCreator/",
+  "description": "Personal Project",
+  "orientation": "any",
+  "icons": [
+          {
+              "src": "https://www.dropbox.com/scl/fi/7rwb92b2b7zks7wl634pu/SnowFallStartIcon.png?rlkey=w4mcjkf0fndmih0qijaim3zsd&st=eav4z311&raw=1",
+              "sizes": "689x689"
+          }
+      ]
+  }
